@@ -8,8 +8,8 @@ class Body extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      root: 'https://b83b39cd.ngrok.io/inf-sec-php-ser/servicios-php.php',
-      mirror: 'http://urlMirror/inf-sec-php-ser/servicios-php.php',
+      root: 'http://faecc3ea.ngrok.io/inf-sec-php-ser/servicios-php.php',
+      mirror: 'http://mirror.ngrok.io/inf-sec-php-ser/servicios-php.php',
       data: [],
       index: '',
       codigo: ''
